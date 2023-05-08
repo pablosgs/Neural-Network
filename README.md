@@ -1,3 +1,3 @@
 # Neural-Network
 
-Implementation of Neural Network for MNIST data first only with math package, then with numpy package.
+Manual implementation of Neural Network for MNIST data from scratch, using only the python math package. Then manual implementation from scratch using only numpy. package.
